@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\obj\Debug\net8.0\MultipleInhertianceUsingInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\obj\Debug\net8.0\MultipleInhertianceUsingInterface.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\obj\Debug\net8.0\MultipleInhertianceUsingInterface.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\obj\Debug\net8.0\MultipleInhertianceUsingInterface.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\bin\Debug\net8.0\MultipleInhertianceUsingInterface.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\bin\Debug\net8.0\MultipleInhertianceUsingInterface.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\bin\Debug\net8.0\MultipleInhertianceUsingInterface.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\bin\Debug\net8.0\MultipleInhertianceUsingInterface.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\bin\Debug\net8.0\MultipleInhertianceUsingInterface.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\obj\Debug\net8.0\MultipleInhertianceUsingInterface.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\obj\Debug\net8.0\refint\MultipleInhertianceUsingInterface.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\obj\Debug\net8.0\MultipleInhertianceUsingInterface.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\obj\Debug\net8.0\MultipleInhertianceUsingInterface.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\MultipleInhertianceUsingInterface\obj\Debug\net8.0\ref\MultipleInhertianceUsingInterface.dll

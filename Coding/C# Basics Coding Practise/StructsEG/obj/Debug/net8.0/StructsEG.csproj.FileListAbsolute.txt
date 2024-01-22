@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\bin\Debug\net8.0\StructsEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\bin\Debug\net8.0\StructsEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\bin\Debug\net8.0\StructsEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\bin\Debug\net8.0\StructsEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\bin\Debug\net8.0\StructsEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\obj\Debug\net8.0\StructsEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\obj\Debug\net8.0\StructsEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\obj\Debug\net8.0\StructsEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\obj\Debug\net8.0\StructsEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\obj\Debug\net8.0\StructsEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\obj\Debug\net8.0\refint\StructsEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\obj\Debug\net8.0\StructsEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\obj\Debug\net8.0\StructsEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StructsEG\obj\Debug\net8.0\ref\StructsEG.dll

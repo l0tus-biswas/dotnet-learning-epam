@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\bin\Debug\net8.0\ParameterizedConstructorEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\bin\Debug\net8.0\ParameterizedConstructorEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\bin\Debug\net8.0\ParameterizedConstructorEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\bin\Debug\net8.0\ParameterizedConstructorEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\bin\Debug\net8.0\ParameterizedConstructorEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\obj\Debug\net8.0\ParameterizedConstructorEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\obj\Debug\net8.0\ParameterizedConstructorEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\obj\Debug\net8.0\ParameterizedConstructorEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\obj\Debug\net8.0\ParameterizedConstructorEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\obj\Debug\net8.0\ParameterizedConstructorEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\obj\Debug\net8.0\refint\ParameterizedConstructorEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\obj\Debug\net8.0\ParameterizedConstructorEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\obj\Debug\net8.0\ParameterizedConstructorEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ParameterizedConstructorEG\obj\Debug\net8.0\ref\ParameterizedConstructorEG.dll

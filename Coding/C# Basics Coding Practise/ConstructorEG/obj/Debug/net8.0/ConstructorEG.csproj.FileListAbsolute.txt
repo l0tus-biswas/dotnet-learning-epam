@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\obj\Debug\net8.0\ConstructorEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\obj\Debug\net8.0\ConstructorEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\obj\Debug\net8.0\ConstructorEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\obj\Debug\net8.0\ConstructorEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\bin\Debug\net8.0\ConstructorEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\bin\Debug\net8.0\ConstructorEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\bin\Debug\net8.0\ConstructorEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\bin\Debug\net8.0\ConstructorEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\bin\Debug\net8.0\ConstructorEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\obj\Debug\net8.0\ConstructorEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\obj\Debug\net8.0\refint\ConstructorEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\obj\Debug\net8.0\ConstructorEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\obj\Debug\net8.0\ConstructorEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ConstructorEG\obj\Debug\net8.0\ref\ConstructorEG.dll

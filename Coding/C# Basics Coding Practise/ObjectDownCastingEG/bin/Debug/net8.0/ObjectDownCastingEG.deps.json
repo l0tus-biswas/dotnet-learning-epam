@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ObjectDownCastingEG/1.0.0": {
+        "runtime": {
+          "ObjectDownCastingEG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectDownCastingEG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

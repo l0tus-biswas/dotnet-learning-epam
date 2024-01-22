@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\obj\Debug\net8.0\PublicAccessModifersEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\obj\Debug\net8.0\PublicAccessModifersEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\obj\Debug\net8.0\PublicAccessModifersEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\obj\Debug\net8.0\PublicAccessModifersEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\bin\Debug\net8.0\PublicAccessModifersEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\bin\Debug\net8.0\PublicAccessModifersEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\bin\Debug\net8.0\PublicAccessModifersEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\bin\Debug\net8.0\PublicAccessModifersEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\bin\Debug\net8.0\PublicAccessModifersEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\obj\Debug\net8.0\PublicAccessModifersEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\obj\Debug\net8.0\refint\PublicAccessModifersEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\obj\Debug\net8.0\PublicAccessModifersEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\obj\Debug\net8.0\PublicAccessModifersEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\PublicAccessModifersEG\obj\Debug\net8.0\ref\PublicAccessModifersEG.dll

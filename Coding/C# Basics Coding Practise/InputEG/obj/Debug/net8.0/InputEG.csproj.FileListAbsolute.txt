@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\obj\Debug\net8.0\InputEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\obj\Debug\net8.0\InputEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\obj\Debug\net8.0\InputEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\obj\Debug\net8.0\InputEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\bin\Debug\net8.0\InputEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\bin\Debug\net8.0\InputEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\bin\Debug\net8.0\InputEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\bin\Debug\net8.0\InputEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\bin\Debug\net8.0\InputEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\obj\Debug\net8.0\InputEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\obj\Debug\net8.0\refint\InputEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\obj\Debug\net8.0\InputEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\obj\Debug\net8.0\InputEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InputEG\obj\Debug\net8.0\ref\InputEG.dll

@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\bin\Debug\net8.0\InterfaceEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\bin\Debug\net8.0\InterfaceEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\bin\Debug\net8.0\InterfaceEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\bin\Debug\net8.0\InterfaceEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\bin\Debug\net8.0\InterfaceEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\obj\Debug\net8.0\InterfaceEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\obj\Debug\net8.0\InterfaceEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\obj\Debug\net8.0\InterfaceEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\obj\Debug\net8.0\InterfaceEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\obj\Debug\net8.0\InterfaceEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\obj\Debug\net8.0\refint\InterfaceEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\obj\Debug\net8.0\InterfaceEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\obj\Debug\net8.0\InterfaceEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\InterfaceEG\obj\Debug\net8.0\ref\InterfaceEG.dll

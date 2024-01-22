@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\obj\Debug\net8.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\obj\Debug\net8.0\variables.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\obj\Debug\net8.0\variables.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\obj\Debug\net8.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\bin\Debug\net8.0\variables.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\bin\Debug\net8.0\variables.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\bin\Debug\net8.0\variables.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\bin\Debug\net8.0\variables.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\bin\Debug\net8.0\variables.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\obj\Debug\net8.0\variables.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\obj\Debug\net8.0\refint\variables.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\obj\Debug\net8.0\variables.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\obj\Debug\net8.0\variables.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\variables\obj\Debug\net8.0\ref\variables.dll

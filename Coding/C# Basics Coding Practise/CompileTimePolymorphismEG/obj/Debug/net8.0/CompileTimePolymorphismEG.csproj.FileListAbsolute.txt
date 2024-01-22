@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\obj\Debug\net8.0\CompileTimePolymorphismEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\obj\Debug\net8.0\CompileTimePolymorphismEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\obj\Debug\net8.0\CompileTimePolymorphismEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\obj\Debug\net8.0\CompileTimePolymorphismEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\bin\Debug\net8.0\CompileTimePolymorphismEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\bin\Debug\net8.0\CompileTimePolymorphismEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\bin\Debug\net8.0\CompileTimePolymorphismEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\bin\Debug\net8.0\CompileTimePolymorphismEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\bin\Debug\net8.0\CompileTimePolymorphismEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\obj\Debug\net8.0\CompileTimePolymorphismEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\obj\Debug\net8.0\refint\CompileTimePolymorphismEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\obj\Debug\net8.0\CompileTimePolymorphismEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\obj\Debug\net8.0\CompileTimePolymorphismEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\CompileTimePolymorphismEG\obj\Debug\net8.0\ref\CompileTimePolymorphismEG.dll

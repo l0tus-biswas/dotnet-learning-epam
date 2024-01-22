@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\obj\Debug\net8.0\JaggedArrayEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\obj\Debug\net8.0\JaggedArrayEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\obj\Debug\net8.0\JaggedArrayEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\obj\Debug\net8.0\JaggedArrayEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\bin\Debug\net8.0\JaggedArrayEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\bin\Debug\net8.0\JaggedArrayEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\bin\Debug\net8.0\JaggedArrayEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\bin\Debug\net8.0\JaggedArrayEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\bin\Debug\net8.0\JaggedArrayEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\obj\Debug\net8.0\JaggedArrayEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\obj\Debug\net8.0\refint\JaggedArrayEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\obj\Debug\net8.0\JaggedArrayEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\obj\Debug\net8.0\JaggedArrayEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\JaggedArrayEG\obj\Debug\net8.0\ref\JaggedArrayEG.dll

@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\bin\Debug\net8.0\output.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\bin\Debug\net8.0\output.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\bin\Debug\net8.0\output.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\bin\Debug\net8.0\output.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\bin\Debug\net8.0\output.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\obj\Debug\net8.0\output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\obj\Debug\net8.0\output.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\obj\Debug\net8.0\output.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\obj\Debug\net8.0\output.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\obj\Debug\net8.0\output.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\obj\Debug\net8.0\refint\output.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\obj\Debug\net8.0\output.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\obj\Debug\net8.0\output.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\output\obj\Debug\net8.0\ref\output.dll

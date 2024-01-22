@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\obj\Debug\net8.0\StaticKeywordEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\obj\Debug\net8.0\StaticKeywordEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\obj\Debug\net8.0\StaticKeywordEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\obj\Debug\net8.0\StaticKeywordEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\bin\Debug\net8.0\StaticKeywordEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\bin\Debug\net8.0\StaticKeywordEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\bin\Debug\net8.0\StaticKeywordEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\bin\Debug\net8.0\StaticKeywordEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\bin\Debug\net8.0\StaticKeywordEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\obj\Debug\net8.0\StaticKeywordEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\obj\Debug\net8.0\refint\StaticKeywordEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\obj\Debug\net8.0\StaticKeywordEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\obj\Debug\net8.0\StaticKeywordEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StaticKeywordEG\obj\Debug\net8.0\ref\StaticKeywordEG.dll

@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\bin\Debug\net8.0\StringsEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\bin\Debug\net8.0\StringsEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\bin\Debug\net8.0\StringsEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\bin\Debug\net8.0\StringsEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\bin\Debug\net8.0\StringsEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\obj\Debug\net8.0\StringsEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\obj\Debug\net8.0\StringsEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\obj\Debug\net8.0\StringsEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\obj\Debug\net8.0\StringsEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\obj\Debug\net8.0\StringsEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\obj\Debug\net8.0\refint\StringsEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\obj\Debug\net8.0\StringsEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\obj\Debug\net8.0\StringsEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\StringsEG\obj\Debug\net8.0\ref\StringsEG.dll

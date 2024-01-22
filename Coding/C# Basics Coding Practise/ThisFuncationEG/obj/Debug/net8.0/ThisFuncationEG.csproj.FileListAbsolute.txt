@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\bin\Debug\net8.0\ThisFuncationEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\bin\Debug\net8.0\ThisFuncationEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\bin\Debug\net8.0\ThisFuncationEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\bin\Debug\net8.0\ThisFuncationEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\bin\Debug\net8.0\ThisFuncationEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\obj\Debug\net8.0\ThisFuncationEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\obj\Debug\net8.0\ThisFuncationEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\obj\Debug\net8.0\ThisFuncationEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\obj\Debug\net8.0\ThisFuncationEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\obj\Debug\net8.0\ThisFuncationEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\obj\Debug\net8.0\refint\ThisFuncationEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\obj\Debug\net8.0\ThisFuncationEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\obj\Debug\net8.0\ThisFuncationEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ThisFuncationEG\obj\Debug\net8.0\ref\ThisFuncationEG.dll

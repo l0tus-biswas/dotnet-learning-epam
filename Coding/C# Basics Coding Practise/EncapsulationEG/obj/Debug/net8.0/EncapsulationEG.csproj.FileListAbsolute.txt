@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\obj\Debug\net8.0\EncapsulationEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\obj\Debug\net8.0\EncapsulationEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\obj\Debug\net8.0\EncapsulationEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\obj\Debug\net8.0\EncapsulationEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\bin\Debug\net8.0\EncapsulationEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\bin\Debug\net8.0\EncapsulationEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\bin\Debug\net8.0\EncapsulationEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\bin\Debug\net8.0\EncapsulationEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\bin\Debug\net8.0\EncapsulationEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\obj\Debug\net8.0\EncapsulationEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\obj\Debug\net8.0\refint\EncapsulationEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\obj\Debug\net8.0\EncapsulationEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\obj\Debug\net8.0\EncapsulationEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EncapsulationEG\obj\Debug\net8.0\ref\EncapsulationEG.dll

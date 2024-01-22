@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\bin\Debug\net8.0\RuntimePolymorphismEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\bin\Debug\net8.0\RuntimePolymorphismEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\bin\Debug\net8.0\RuntimePolymorphismEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\bin\Debug\net8.0\RuntimePolymorphismEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\bin\Debug\net8.0\RuntimePolymorphismEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\obj\Debug\net8.0\RuntimePolymorphismEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\obj\Debug\net8.0\RuntimePolymorphismEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\obj\Debug\net8.0\RuntimePolymorphismEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\obj\Debug\net8.0\RuntimePolymorphismEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\obj\Debug\net8.0\RuntimePolymorphismEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\obj\Debug\net8.0\refint\RuntimePolymorphismEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\obj\Debug\net8.0\RuntimePolymorphismEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\obj\Debug\net8.0\RuntimePolymorphismEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\RuntimePolymorphismEG\obj\Debug\net8.0\ref\RuntimePolymorphismEG.dll

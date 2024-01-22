@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\bin\Debug\net8.0\BoxingAndUnboxingEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\bin\Debug\net8.0\BoxingAndUnboxingEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\bin\Debug\net8.0\BoxingAndUnboxingEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\bin\Debug\net8.0\BoxingAndUnboxingEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\bin\Debug\net8.0\BoxingAndUnboxingEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\obj\Debug\net8.0\BoxingAndUnboxingEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\obj\Debug\net8.0\BoxingAndUnboxingEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\obj\Debug\net8.0\BoxingAndUnboxingEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\obj\Debug\net8.0\BoxingAndUnboxingEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\obj\Debug\net8.0\BoxingAndUnboxingEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\obj\Debug\net8.0\refint\BoxingAndUnboxingEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\obj\Debug\net8.0\BoxingAndUnboxingEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\obj\Debug\net8.0\BoxingAndUnboxingEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\BoxingAndUnboxingEG\obj\Debug\net8.0\ref\BoxingAndUnboxingEG.dll

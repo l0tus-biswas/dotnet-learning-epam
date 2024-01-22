@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\bin\Debug\net8.0\EnumsEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\bin\Debug\net8.0\EnumsEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\bin\Debug\net8.0\EnumsEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\bin\Debug\net8.0\EnumsEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\bin\Debug\net8.0\EnumsEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\obj\Debug\net8.0\EnumsEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\obj\Debug\net8.0\EnumsEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\obj\Debug\net8.0\EnumsEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\obj\Debug\net8.0\EnumsEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\obj\Debug\net8.0\EnumsEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\obj\Debug\net8.0\refint\EnumsEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\obj\Debug\net8.0\EnumsEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\obj\Debug\net8.0\EnumsEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\EnumsEG\obj\Debug\net8.0\ref\EnumsEG.dll

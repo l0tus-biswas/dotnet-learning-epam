@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\bin\Debug\net8.0\AbstractClassEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\bin\Debug\net8.0\AbstractClassEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\bin\Debug\net8.0\AbstractClassEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\bin\Debug\net8.0\AbstractClassEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\bin\Debug\net8.0\AbstractClassEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\obj\Debug\net8.0\AbstractClassEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\obj\Debug\net8.0\AbstractClassEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\obj\Debug\net8.0\AbstractClassEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\obj\Debug\net8.0\AbstractClassEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\obj\Debug\net8.0\AbstractClassEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\obj\Debug\net8.0\refint\AbstractClassEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\obj\Debug\net8.0\AbstractClassEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\obj\Debug\net8.0\AbstractClassEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\AbstractClassEG\obj\Debug\net8.0\ref\AbstractClassEG.dll

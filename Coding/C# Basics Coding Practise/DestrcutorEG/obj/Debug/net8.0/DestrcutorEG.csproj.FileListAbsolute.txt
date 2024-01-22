@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\obj\Debug\net8.0\DestrcutorEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\obj\Debug\net8.0\DestrcutorEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\obj\Debug\net8.0\DestrcutorEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\obj\Debug\net8.0\DestrcutorEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\bin\Debug\net8.0\DestrcutorEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\bin\Debug\net8.0\DestrcutorEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\bin\Debug\net8.0\DestrcutorEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\bin\Debug\net8.0\DestrcutorEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\bin\Debug\net8.0\DestrcutorEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\obj\Debug\net8.0\DestrcutorEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\obj\Debug\net8.0\refint\DestrcutorEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\obj\Debug\net8.0\DestrcutorEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\obj\Debug\net8.0\DestrcutorEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\DestrcutorEG\obj\Debug\net8.0\ref\DestrcutorEG.dll

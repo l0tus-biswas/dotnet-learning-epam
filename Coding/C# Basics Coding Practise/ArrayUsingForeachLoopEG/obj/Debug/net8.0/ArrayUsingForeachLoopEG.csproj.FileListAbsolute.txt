@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\bin\Debug\net8.0\ArrayUsingForeachLoopEG.exe
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\bin\Debug\net8.0\ArrayUsingForeachLoopEG.deps.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\bin\Debug\net8.0\ArrayUsingForeachLoopEG.runtimeconfig.json
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\bin\Debug\net8.0\ArrayUsingForeachLoopEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\bin\Debug\net8.0\ArrayUsingForeachLoopEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\obj\Debug\net8.0\ArrayUsingForeachLoopEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\obj\Debug\net8.0\ArrayUsingForeachLoopEG.AssemblyInfoInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\obj\Debug\net8.0\ArrayUsingForeachLoopEG.AssemblyInfo.cs
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\obj\Debug\net8.0\ArrayUsingForeachLoopEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\obj\Debug\net8.0\ArrayUsingForeachLoopEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\obj\Debug\net8.0\refint\ArrayUsingForeachLoopEG.dll
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\obj\Debug\net8.0\ArrayUsingForeachLoopEG.pdb
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\obj\Debug\net8.0\ArrayUsingForeachLoopEG.genruntimeconfig.cache
+C:\Users\lotus_biswas\Documents\DOT NET Practise\DOT_NET_Code\ArrayUsingForeachLoopEG\obj\Debug\net8.0\ref\ArrayUsingForeachLoopEG.dll
