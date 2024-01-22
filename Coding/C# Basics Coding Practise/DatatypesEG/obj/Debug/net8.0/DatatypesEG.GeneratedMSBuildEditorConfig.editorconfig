@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DatatypesEG
-build_property.ProjectDir = C:\Users\lotus_biswas\Documents\Github\dot_net_learnings\DOT_NET_Code\DatatypesEG\
+build_property.ProjectDir = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Coding\C# Basics Coding Practise\DatatypesEG\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
