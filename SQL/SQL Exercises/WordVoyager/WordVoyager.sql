@@ -1,7 +1,16 @@
 -- DB Name :WordVoyager
-CREATE DATABASE WordVoyager;
 
+-- Create the database if it doesn't exist
+IF NOT EXISTS (SELECT 1 FROM sys.databases WHERE name = 'WordVoyager')
+BEGIN
+    CREATE DATABASE WordVoyager;
+END
+GO 
+
+-- Switch to the database
 USE WordVoyager;
+
+
 
 /*
 User Table: Stores information about users who can be authors and/or readers.
@@ -17,9 +26,9 @@ RegistrationDate (DATETIME): Date and time the user registered.
 CREATE TABLE [User] (
     UserId INT PRIMARY KEY,
     Username NVARCHAR(100) NOT NULL,
-    Email NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100) NOT NULL UNIQUE,
     PasswordHash NVARCHAR(100) NOT NULL,
-    RegistrationDate DATETIME NOT NULL
+    RegistrationDate DATETIME DEFAULT GETDATE() NOT NULL
 );
 
 
@@ -54,8 +63,8 @@ CREATE TABLE [Article] (
     ArticleId INT PRIMARY KEY,
     Title NVARCHAR(100) NOT NULL,
     Content TEXT NOT NULL,
-    PublishedDate DATETIME NOT NULL,
-    LastModifiedDate DATETIME NOT NULL,
+    PublishedDate DATETIME DEFAULT GETDATE() NOT NULL,
+    LastModifiedDate DATETIME DEFAULT GETDATE() NOT NULL,
     AuthorId INT FOREIGN KEY REFERENCES [User](UserId),
     CategoryId INT FOREIGN KEY REFERENCES [Category](CategoryId)
 );
@@ -76,7 +85,7 @@ CREATE TABLE [Comment] (
     ArticleId INT FOREIGN KEY REFERENCES [Article](ArticleId),
     UserId INT FOREIGN KEY REFERENCES [User](UserId),
     Content TEXT NOT NULL,
-    CommentDate DATETIME NOT NULL
+    CommentDate DATETIME DEFAULT GETDATE() NOT NULL
 );
 
 /*
@@ -126,5 +135,5 @@ CREATE TABLE [Attachment] (
     FileName NVARCHAR(100) NOT NULL,
     FileType NVARCHAR(100) NOT NULL,
     FilePath NVARCHAR(100) NOT NULL,
-    UploadDate DATETIME NOT NULL
+    UploadDate DATETIME DEFAULT GETDATE() NOT NULL
 );
