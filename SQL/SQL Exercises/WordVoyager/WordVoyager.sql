@@ -24,7 +24,7 @@ RegistrationDate (DATETIME): Date and time the user registered.
 */
 
 CREATE TABLE [User] (
-    UserId INT PRIMARY KEY,
+    UserId INT PRIMARY KEY IDENTITY(1,1),
     Username NVARCHAR(100) NOT NULL,
     Email NVARCHAR(100) NOT NULL UNIQUE,
     PasswordHash NVARCHAR(100) NOT NULL,
@@ -42,7 +42,7 @@ Description (TEXT): Brief description of the category.
 */
 
 CREATE TABLE [Category] (
-    CategoryId INT PRIMARY KEY,
+    CategoryId INT PRIMARY KEY IDENTITY(1,1),
     Name NVARCHAR(100) NOT NULL,
     Description TEXT 
 );
@@ -60,7 +60,7 @@ CategoryId (INT, FK): References CategoryId in the Category table.
 
 */
 CREATE TABLE [Article] (
-    ArticleId INT PRIMARY KEY,
+    ArticleId INT PRIMARY KEY IDENTITY(1,1),
     Title NVARCHAR(100) NOT NULL,
     Content TEXT NOT NULL,
     PublishedDate DATETIME DEFAULT GETDATE() NOT NULL,
@@ -81,7 +81,7 @@ CommentDate (DATETIME): Date and time the comment was posted.
 */
 
 CREATE TABLE [Comment] (
-    CommentId INT PRIMARY KEY,
+    CommentId INT PRIMARY KEY  IDENTITY(1,1),
     ArticleId INT FOREIGN KEY REFERENCES [Article](ArticleId),
     UserId INT FOREIGN KEY REFERENCES [User](UserId),
     Content TEXT NOT NULL,
@@ -97,7 +97,7 @@ Name (NVARCHAR(100)): Name of the tag.
 */
 
 CREATE TABLE [Tag] (
-    TagId INT PRIMARY KEY,
+    TagId INT PRIMARY KEY  IDENTITY(1,1),
     Name NVARCHAR(100) NOT NULL
 );
 
