@@ -1,0 +1,7 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Generics\Generics.ClassEG\bin\Debug\Generics.ClassEG.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Generics\Generics.ClassEG\bin\Debug\Generics.ClassEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Generics\Generics.ClassEG\bin\Debug\Generics.ClassEG.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Generics\Generics.ClassEG\obj\Debug\Generics.ClassEG.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Generics\Generics.ClassEG\obj\Debug\Generics.ClassEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Generics\Generics.ClassEG\obj\Debug\Generics.ClassEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Generics\Generics.ClassEG\obj\Debug\Generics.ClassEG.pdb
