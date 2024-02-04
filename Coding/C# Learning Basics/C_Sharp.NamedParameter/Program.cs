@@ -16,6 +16,12 @@ namespace C_Sharp.NamedParameter
             // Named Parameter
             Add(a: 20.1, b: 20.2, c: 20.3, x: 10);
             Console.Read();
+
+            byte b1 = 10;
+            byte b2 = 20;
+            byte b3;
+            b3 = (b1 + b2);
+            Console.WriteLine(b3);
         }
         public static void Add(int x, double a, double b, double c)
         {

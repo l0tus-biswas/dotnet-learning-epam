@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LotusArrayList</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:LotusArrayList.LotusArrayList`1.AddToBack(`0)" -->
+        <!-- Badly formed XML comment ignored for member "M:LotusArrayList.LotusArrayList`1.AddToFront(`0)" -->
+        <!-- Badly formed XML comment ignored for member "M:LotusArrayList.LotusArrayList`1.InsertAfterIndex(`0,System.Int32)" -->
+        <member name="M:LotusArrayList.LotusArrayList`1.RemoveByValue(`0)">
+            <summary>
+            Removing an element by its value. If present in the list, it will remove it, else print no found in the list
+            </summary>
+            <param name="value">Represent an object or element you want to remove</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:LotusArrayList.LotusArrayList`1.Contains(`0)" -->
+        <!-- Badly formed XML comment ignored for member "M:LotusArrayList.LotusArrayList`1.IndexOf(`0)" -->
+        <member name="M:LotusArrayList.LotusArrayList`1.Count">
+            <summary>
+            Return the number of element in the sequence.
+            </summary>
+            <returns>Number of element in the input sequence.</returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:LotusArrayList.LotusArrayList`1.Print" -->
+    </members>
+</doc>

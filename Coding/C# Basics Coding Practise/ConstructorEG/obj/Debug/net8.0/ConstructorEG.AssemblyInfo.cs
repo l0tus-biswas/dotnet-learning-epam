@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConstructorEG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3dd5ce0f64fa5a4010e116d0c54658d994af4f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+374c147dd558190439ba698ba06f14ef96aa794d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConstructorEG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConstructorEG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

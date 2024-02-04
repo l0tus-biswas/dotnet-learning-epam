@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LotusArrayList</name>
+    </assembly>
+    <members>
+        <member name="M:LotusArrayList.LotusArrayList`1.AddToBack(`0)">
+            <summary>
+            Adds an object at the end of the LotusArrayList
+            </summary>
+            <param name="value">Represent an object or element you want to add</param>
+        </member>
+        <member name="M:LotusArrayList.LotusArrayList`1.AddToFront(`0)">
+            <summary>
+            Adds an object at the back of the LotusArrayList
+            </summary>
+            <param name="value">Represent an object or element you want to add</param>
+        </member>
+        <member name="M:LotusArrayList.LotusArrayList`1.InsertAfterIndex(`0,System.Int32)">
+            <summary>
+            Adds an object after a specific index LotusArrayList
+            </summary>
+            <param name="value">Represent an object or element you want to add</param>
+            <param name="index">Represent the index, where you want to add</param>
+        </member>
+        <member name="M:LotusArrayList.LotusArrayList`1.RemoveByValue(`0)">
+            <summary>
+            Removing an element by its value. If present in the list, it will remove it, else print no found in the list
+            </summary>
+            <param name="value">Represent an object or element you want to remove</param>
+        </member>
+        <member name="M:LotusArrayList.LotusArrayList`1.Contains(`0)">
+            <summary>
+            Checks whether the object is present in LotusArrayList
+            </summary>
+            <param name="value">Represent an object or element you want to search</param>
+            <returns> If present return true or else return false.</returns>
+        </member>
+        <member name="M:LotusArrayList.LotusArrayList`1.IndexOf(`0)">
+            <summary>
+            Find the index position of the object present in LotusArrayList. If present return the index number or else return -1 for not found. 
+            </summary>
+            <param name="value">Represent an object or element you want to search</param>
+            <returns></returns>
+        </member>
+        <member name="M:LotusArrayList.LotusArrayList`1.Count">
+            <summary>
+            Return the number of element in the sequence.
+            </summary>
+            <returns>Number of element in the input sequence.</returns>
+        </member>
+        <member name="M:LotusArrayList.LotusArrayList`1.Print">
+            <summary>
+            Print all the elements present in the LotusArrayList
+            </summary>
+        </member>
+    </members>
+</doc>

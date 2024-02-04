@@ -8,7 +8,7 @@ namespace ConstructorEG
         {
             Console.WriteLine("Default Constructor called");
         }
-        public Program()
+
         static void Main(string[] args)
         {
             Program obj1 = new Program();

@@ -10,7 +10,7 @@ namespace C_Sharp.OptionalParameters
     {
         static void Main(string[] args)
         {
-            AddOptional(10, 20);
+            AddOptional(10,20);
             AddOptional(20,20,30);
             Console.Read();
         }
