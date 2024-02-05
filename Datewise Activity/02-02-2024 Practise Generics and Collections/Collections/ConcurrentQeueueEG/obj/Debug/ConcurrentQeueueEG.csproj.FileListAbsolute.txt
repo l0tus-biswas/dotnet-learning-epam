@@ -1,0 +1,7 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\ConcurrentQeueueEG\bin\Debug\ConcurrentQeueueEG.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\ConcurrentQeueueEG\bin\Debug\ConcurrentQeueueEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\ConcurrentQeueueEG\bin\Debug\ConcurrentQeueueEG.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\ConcurrentQeueueEG\obj\Debug\ConcurrentQeueueEG.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\ConcurrentQeueueEG\obj\Debug\ConcurrentQeueueEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\ConcurrentQeueueEG\obj\Debug\ConcurrentQeueueEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\ConcurrentQeueueEG\obj\Debug\ConcurrentQeueueEG.pdb

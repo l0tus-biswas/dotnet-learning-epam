@@ -1,0 +1,7 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Practise\PhotoBookClass\bin\Debug\PhotoBookClass.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Practise\PhotoBookClass\bin\Debug\PhotoBookClass.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Practise\PhotoBookClass\bin\Debug\PhotoBookClass.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Practise\PhotoBookClass\obj\Debug\PhotoBookClass.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Practise\PhotoBookClass\obj\Debug\PhotoBookClass.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Practise\PhotoBookClass\obj\Debug\PhotoBookClass.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Practise\PhotoBookClass\obj\Debug\PhotoBookClass.pdb

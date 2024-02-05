@@ -1,0 +1,14 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Collections\Collections.Queue\bin\Debug\Collections.Queue.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Collections\Collections.Queue\bin\Debug\Collections.Queue.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Collections\Collections.Queue\bin\Debug\Collections.Queue.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Collections\Collections.Queue\obj\Debug\Collections.Queue.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Collections\Collections.Queue\obj\Debug\Collections.Queue.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Collections\Collections.Queue\obj\Debug\Collections.Queue.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\04th Feb 2024\Collections\Collections.Queue\obj\Debug\Collections.Queue.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.Queue\bin\Debug\Collections.Queue.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.Queue\bin\Debug\Collections.Queue.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.Queue\bin\Debug\Collections.Queue.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.Queue\obj\Debug\Collections.Queue.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.Queue\obj\Debug\Collections.Queue.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.Queue\obj\Debug\Collections.Queue.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.Queue\obj\Debug\Collections.Queue.pdb

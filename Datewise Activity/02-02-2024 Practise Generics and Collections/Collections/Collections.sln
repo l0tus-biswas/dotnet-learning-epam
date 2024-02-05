@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concur.SortedDictioanaryEG"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concur.SortedListEG", "Concur.SortedListEG\Concur.SortedListEG.csproj", "{4F3EB0B6-2C0B-40A6-9FC6-77ABEEFF0D09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentQeueueEG", "ConcurrentQeueueEG\ConcurrentQeueueEG.csproj", "{9F196688-CD20-4B46-AF6C-C7FBCACFBE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentStackEG", "ConcurrentStackEG\ConcurrentStackEG.csproj", "{BBC6914F-26AB-4D67-B9BA-B58A36143AAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{4F3EB0B6-2C0B-40A6-9FC6-77ABEEFF0D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F3EB0B6-2C0B-40A6-9FC6-77ABEEFF0D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F3EB0B6-2C0B-40A6-9FC6-77ABEEFF0D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F196688-CD20-4B46-AF6C-C7FBCACFBE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F196688-CD20-4B46-AF6C-C7FBCACFBE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F196688-CD20-4B46-AF6C-C7FBCACFBE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F196688-CD20-4B46-AF6C-C7FBCACFBE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC6914F-26AB-4D67-B9BA-B58A36143AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC6914F-26AB-4D67-B9BA-B58A36143AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC6914F-26AB-4D67-B9BA-B58A36143AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC6914F-26AB-4D67-B9BA-B58A36143AAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
