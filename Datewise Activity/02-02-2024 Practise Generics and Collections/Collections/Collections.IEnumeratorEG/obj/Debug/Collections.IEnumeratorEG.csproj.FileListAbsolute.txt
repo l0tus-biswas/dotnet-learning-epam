@@ -1,0 +1,7 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.IEnumeratorEG\bin\Debug\Collections.IEnumeratorEG.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.IEnumeratorEG\bin\Debug\Collections.IEnumeratorEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.IEnumeratorEG\bin\Debug\Collections.IEnumeratorEG.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.IEnumeratorEG\obj\Debug\Collections.IEnumeratorEG.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.IEnumeratorEG\obj\Debug\Collections.IEnumeratorEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.IEnumeratorEG\obj\Debug\Collections.IEnumeratorEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\02-02-2024 Practise Generics and Collections\Collections\Collections.IEnumeratorEG\obj\Debug\Collections.IEnumeratorEG.pdb
