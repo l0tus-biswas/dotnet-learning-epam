@@ -1,0 +1,7 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\SerializationEG\bin\Debug\SerializationEG.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\SerializationEG\bin\Debug\SerializationEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\SerializationEG\bin\Debug\SerializationEG.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\SerializationEG\obj\Debug\BinarySerializationEG.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\SerializationEG\obj\Debug\BinarySerializationEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\SerializationEG\obj\Debug\SerializationEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\SerializationEG\obj\Debug\SerializationEG.pdb

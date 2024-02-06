@@ -1,0 +1,7 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\LambaExpressionEG\bin\Debug\LambaExpressionEG.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\LambaExpressionEG\bin\Debug\LambaExpressionEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\LambaExpressionEG\bin\Debug\LambaExpressionEG.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\LambaExpressionEG\obj\Debug\LambaExpressionEG.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\LambaExpressionEG\obj\Debug\LambaExpressionEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\LambaExpressionEG\obj\Debug\LambaExpressionEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\LambaExpressionEG\obj\Debug\LambaExpressionEG.pdb

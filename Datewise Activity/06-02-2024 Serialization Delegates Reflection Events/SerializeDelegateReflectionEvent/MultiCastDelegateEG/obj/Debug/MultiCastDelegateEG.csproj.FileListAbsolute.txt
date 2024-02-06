@@ -1,0 +1,7 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\MultiCastDelegateEG\bin\Debug\MultiCastDelegateEG.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\MultiCastDelegateEG\bin\Debug\MultiCastDelegateEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\MultiCastDelegateEG\bin\Debug\MultiCastDelegateEG.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\MultiCastDelegateEG\obj\Debug\MultiCastDelegateEG.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\MultiCastDelegateEG\obj\Debug\MultiCastDelegateEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\MultiCastDelegateEG\obj\Debug\MultiCastDelegateEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\MultiCastDelegateEG\obj\Debug\MultiCastDelegateEG.pdb

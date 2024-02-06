@@ -1,0 +1,7 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\AnonymousDelegateEG\bin\Debug\AnonymousDelegateEG.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\AnonymousDelegateEG\bin\Debug\AnonymousDelegateEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\AnonymousDelegateEG\bin\Debug\AnonymousDelegateEG.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\AnonymousDelegateEG\obj\Debug\AnonymousDelegateEG.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\AnonymousDelegateEG\obj\Debug\AnonymousDelegateEG.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\AnonymousDelegateEG\obj\Debug\AnonymousDelegateEG.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\06-02-2024\SerializeDelegateReflectionEvent\AnonymousDelegateEG\obj\Debug\AnonymousDelegateEG.pdb
