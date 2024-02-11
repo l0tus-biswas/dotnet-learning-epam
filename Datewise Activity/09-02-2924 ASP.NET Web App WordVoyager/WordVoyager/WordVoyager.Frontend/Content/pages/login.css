@@ -1,0 +1,28 @@
+﻿.bg-login {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.815),rgba(0, 0, 0, 0.689)),url(../../Images/login/login_cover.png), linear-gradient(180deg, #00C47C 24.58%, #C8FFB5 68.5%, #FFE4AE 82.3%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    object-fit: contain;
+    color: #fff;
+}
+
+.card {
+    width: 80%;
+}
+
+
+@media screen and (max-width: 480px) {
+
+    h1 {
+        font-size: 30px;
+    }
+
+    h3 {
+        line-height: 1.5;
+    }
+
+    .card {
+        width: 100%;
+    }
+}

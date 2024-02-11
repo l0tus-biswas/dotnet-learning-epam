@@ -1,0 +1,40 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Protest Strike', sans-serif;
+}
+
+
+.article-user-deatils .user-image img {
+    width: 40px;
+    border-radius: 30px !important;
+}
+
+.article-user-deatils .user-info {
+    color: black;
+}
+
+    .article-user-deatils .user-info ul {
+        padding: 0;
+        margin: 0;
+    }
+
+    .article-user-deatils .user-info li {
+        list-style-type: none;
+    }
+
+        .article-user-deatils .user-info li:nth-child(2) {
+            font-size: 10px;
+        }
+
