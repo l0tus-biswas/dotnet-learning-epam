@@ -1,0 +1,7 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\14-02-2024\NotepadCustomControl\bin\NotepadCustomControl.dll.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\14-02-2024\NotepadCustomControl\bin\NotepadCustomControl.dll
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\14-02-2024\NotepadCustomControl\bin\NotepadCustomControl.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\14-02-2024\NotepadCustomControl\obj\Debug\NotepadCustomControl.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\14-02-2024\NotepadCustomControl\obj\Debug\NotepadCustomControl.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\14-02-2024\NotepadCustomControl\obj\Debug\NotepadCustomControl.dll
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\14-02-2024\NotepadCustomControl\obj\Debug\NotepadCustomControl.pdb
