@@ -1,0 +1,5 @@
+27-02-2024 12:40:03: System; Failure sending mail.
+27-02-2024 12:50:04: Mail Sent 27-02-2024 12:50:04
+27-02-2024 12:55:03: Mail Sent 27-02-2024 12:55:03
+27-02-2024 12:55:03: mscorlib; Number must be either non-negative and less than or equal to Int32.MaxValue or -1.
+Parameter name: dueTime

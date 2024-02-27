@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "pKjUPafYnEWXQ2RIFNj6JfgbeJIgTRLYbTUZgb0HGyJRttoPpl8K+guCFgKNkAerdxT3UcO1zpaBzTwfHUUM1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lotus_biswas\\Documents\\Github Personal\\dotnet-learning-epam\\Datewise Activity\\27-02-2024 Windows Service Email\\QuartzEG\\QuartzImpleEG\\QuartzImpleEG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.0\\microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\quartz\\3.8.1\\quartz.3.8.1.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\quartz.extensions.dependencyinjection\\3.8.1\\quartz.extensions.dependencyinjection.3.8.1.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\quartz.extensions.hosting\\3.8.1\\quartz.extensions.hosting.3.8.1.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\lotus_biswas\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
