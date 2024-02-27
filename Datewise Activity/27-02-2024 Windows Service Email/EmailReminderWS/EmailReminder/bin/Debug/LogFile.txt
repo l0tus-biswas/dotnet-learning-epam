@@ -1,0 +1,2 @@
+27-02-2024 12:40:03: System; Failure sending mail.
+27-02-2024 12:50:04: Mail Sent 27-02-2024 12:50:04

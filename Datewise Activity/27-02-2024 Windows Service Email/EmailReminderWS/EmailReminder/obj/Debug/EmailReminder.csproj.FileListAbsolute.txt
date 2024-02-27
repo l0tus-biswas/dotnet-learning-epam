@@ -1,0 +1,9 @@
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe.config
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.pdb
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\obj\Debug\EmailReminder.csproj.AssemblyReference.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\obj\Debug\EmailReminder.ProjectInstaller.resources
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\obj\Debug\EmailReminder.csproj.GenerateResource.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\obj\Debug\EmailReminder.csproj.CoreCompileInputs.cache
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\obj\Debug\EmailReminder.exe
+C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\obj\Debug\EmailReminder.pdb

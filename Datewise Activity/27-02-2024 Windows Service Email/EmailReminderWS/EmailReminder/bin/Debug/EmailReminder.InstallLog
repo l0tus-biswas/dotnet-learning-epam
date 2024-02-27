@@ -1,0 +1,52 @@
+﻿Installing assembly 'C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe
+   logfile = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.InstallLog
+Installing service HelloService...
+Service HelloService has been successfully installed.
+Creating EventLog source HelloService in log Application...
+Committing assembly 'C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe
+   logfile = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.InstallLog
+Installing assembly 'C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe
+   logfile = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.InstallLog
+Installing service HelloService...
+Creating EventLog source HelloService in log Application...
+Rolling back assembly 'C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe
+   logfile = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.InstallLog
+Restoring event log to previous state for source HelloService.
+Installing assembly 'C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe
+   logfile = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.InstallLog
+Installing service HelloService...
+Creating EventLog source HelloService in log Application...
+Rolling back assembly 'C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe
+   logfile = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.InstallLog
+Restoring event log to previous state for source HelloService.
+Installing assembly 'C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe
+   logfile = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.InstallLog
+Installing service HelloService...
+Creating EventLog source HelloService in log Application...
+Rolling back assembly 'C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.exe
+   logfile = C:\Users\lotus_biswas\Documents\Github Personal\dotnet-learning-epam\Datewise Activity\27-02-2024 Windows Service Email\EmailReminderWS\EmailReminder\bin\Debug\EmailReminder.InstallLog
+Restoring event log to previous state for source HelloService.
